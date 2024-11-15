@@ -10,6 +10,7 @@ Actually only TUI version, GUI to be made.<br>
 
 </div>
 
+# PROJECT IS INCOMPLETE AND STILL HAS NO WAY OF STANDARD INSTALLATION. DEVELOPEMENT ONLY! 
 
 # Features
 - Addon detector (Detects any folder with a initialized.sh script, ready to use for the user.)
